@@ -1,0 +1,16 @@
+#MainDiv,
+#AnDiv {
+  position:absolute;
+  top: 200; /*[wherever you want it]*/
+  left:100; /*[wherever you want it]*/
+  width: 200;
+  height: 200;
+}
+
+#AnDiv {
+  background: red
+}
+
+#MainDiv {
+  background: red
+}
